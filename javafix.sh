@@ -1,7 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 
-
 echo -e "\e[34mInstalling Java"
 echo
 echo
@@ -62,7 +61,6 @@ else
  echo
  echo
  echo
- termux-open-url https://h4ck3r.me/
  echo
 
 fi
